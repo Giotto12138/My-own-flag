@@ -1,2 +1,4 @@
-scandals
+scandals：
 
+
+path to flag 10: 
