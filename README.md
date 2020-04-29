@@ -1,3 +1,3 @@
 # My-own-flag
-Design my first own flag of a CTF project for ethical hacking course
+My first own flag: a flag of the CTF project of ethical hacking course
 
