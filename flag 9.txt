@@ -3,4 +3,3 @@ scandals：
 
 path to flag 10: 
 
-test
