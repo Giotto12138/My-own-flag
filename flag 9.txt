@@ -6,3 +6,5 @@ path to flag 10:
 test
 
 test2
+
+test3
